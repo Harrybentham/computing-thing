@@ -1,0 +1,17 @@
+inp
+sta a
+inp
+sta b
+cmp b,a
+js PRINTA
+jns PRINTB
+
+PRINTA:
+out a
+hlt
+dat 1
+
+PRINTB:
+out b
+hlt
+dat 2
