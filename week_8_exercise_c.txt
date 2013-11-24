@@ -1,0 +1,14 @@
+Question 1-see file abs_val.c
+
+
+Question 2:
+The function takes three integer parametres, compares all three number. If all three numbers are idential then return TRUE. If one or two numbers are different then return FALSE.
+
+Question 3:
+X=5
+function returns x+2
+therefore f(x+2)=9
+and f(f(x+2))=11
+
+Queston 4:
+see file primecheckers.c
