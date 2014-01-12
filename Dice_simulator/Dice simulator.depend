@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389548742 source:/home/pi/workspace/computing-thing/Dice simulator/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

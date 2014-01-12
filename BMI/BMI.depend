@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389545141 source:/home/pi/workspace/computing-thing/BMI/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
