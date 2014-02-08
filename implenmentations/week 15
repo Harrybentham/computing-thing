@@ -1,0 +1,5 @@
+Question 1
+implenmentation 1 is a bubble sort algorithm. Over 10000 random numbers I found the average time to sort was 11650 milliseconds, averaging roughly 1.2 milliseconds per number. This is fairly inefficient.
+
+implenmentation 2 however is a Selection sort algorithm.  Over 10000 random numbers I found the average time to sort was 3342 milliseconds, averaging roughly 0.3 milliseconds per number
+This means implementation 2 was approximately 4 times more efficient than implementation 1
